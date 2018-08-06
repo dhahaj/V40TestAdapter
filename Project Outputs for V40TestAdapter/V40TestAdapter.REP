@@ -1,0 +1,214 @@
+*************************************************************
+FileName = V40TestAdapter.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : V40TestAdapter.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D21
+    D29
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : V40TestAdapter.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : V40TestAdapter.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D16
+    D19
+    D21
+    D29
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : V40TestAdapter.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : V40TestAdapter.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D17
+    D18
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : V40TestAdapter.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : V40TestAdapter.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : V40TestAdapter.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : V40TestAdapter.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
